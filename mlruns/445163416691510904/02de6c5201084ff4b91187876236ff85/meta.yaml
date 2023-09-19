@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/parth.agarwal/Downloads/mlflow_tutorial/mlruns/445163416691510904/02de6c5201084ff4b91187876236ff85/artifacts
+end_time: 1695107117929
+entry_point_name: ''
+experiment_id: '445163416691510904'
+lifecycle_stage: active
+run_id: 02de6c5201084ff4b91187876236ff85
+run_name: unique-pig-929
+run_uuid: 02de6c5201084ff4b91187876236ff85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695107108278
+status: 3
+tags: []
+user_id: parth.agarwal

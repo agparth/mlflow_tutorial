@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c455e33fd2094ddfa233153f9c56fe5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c455e33fd2094ddfa233153f9c56fe5b
+run_name: secretive-cow-760
+run_uuid: c455e33fd2094ddfa233153f9c56fe5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695109473855
+status: 1
+tags: []
+user_id: parth.agarwal

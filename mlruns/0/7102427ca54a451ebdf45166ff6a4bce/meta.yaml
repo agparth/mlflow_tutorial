@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7102427ca54a451ebdf45166ff6a4bce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7102427ca54a451ebdf45166ff6a4bce
+run_name: puzzled-carp-168
+run_uuid: 7102427ca54a451ebdf45166ff6a4bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695109255279
+status: 1
+tags: []
+user_id: parth.agarwal
